@@ -1,0 +1,6 @@
+git init- used in diectory
+git add- used for add a file to git.
+git add. - used to add numbers of file at same time.
+git statu- to show the how many file are add,how many are not added,
+git log- to see how much are make commited.
+git commite -m ' lkjsaoidjf;a'- use to commite and add some message.
